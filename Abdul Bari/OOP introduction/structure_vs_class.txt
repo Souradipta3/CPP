@@ -1,0 +1,12 @@
+In C language we find structure (struct) which contains only data and
+in C++ we fin class where both data and functions can be used. Structure 
+can also be used in C++ which behaves like a class only so it does not
+matter whether we use structure or class in C++.
+
+In C++, structure is by deafult public to the main fucntion and class is by deafult 
+private to the main fucntion. This is main difference between structure and class. 
+
+In C language we have pointer but not oop and in Java we have oop but not pointer. In C++
+we have both of these built in functions for whicha unique feature can be found that is
+Pointer to an Object since C++ has both pointer and oop built in functions.
+

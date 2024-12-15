@@ -1,0 +1,32 @@
+class rectangle
+{
+    private:
+
+        int length;
+        int breadth;
+
+    public:
+    
+                                    Constructor
+        rectangle();     
+        reactangle(int l, int b);
+        rectangle(rectangle &r);
+
+                                    Mutator
+        void setLength(int l);
+        void setBreadth(int b);
+
+                                    Accessor    
+        int getLength();
+        int getBreadth();
+
+                                    Facilitators
+        int area();
+        int perimeter();
+
+                                    Enquiry
+        bool isSquare();
+
+                                    Destructor
+        ~rectangle();
+};
